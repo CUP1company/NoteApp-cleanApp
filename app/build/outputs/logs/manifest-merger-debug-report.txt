@@ -1,0 +1,383 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.material:material:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\c10a2c6fdff37e06135f69027ae82b2d\transformed\material-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0-alpha03] C:\Users\nana2\.gradle\caches\transforms-3\5a192979789e0111f1c29febca3c8e04\transformed\hilt-navigation-compose-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\d9163eb6e530b23780bab63281c69333\transformed\navigation-compose-2.4.0-alpha09\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\76217f61e55b2593bc2b55df3e639518\transformed\activity-compose-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\85e511186246ea31c828a3e851283fb3\transformed\lifecycle-viewmodel-compose-2.4.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\cea4ffc0f1bf97d7251cee0798519e09\transformed\ui-tooling-data-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6464a9babcfa14aa00c5b914fc290399\transformed\material-ripple-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\d2619136a35c9ab33533a44d3339bdf0\transformed\foundation-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\2f686f6d7e38e6c6ca8013e44cbb718d\transformed\animation-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-extended:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\0866a56cb9a8cdc0b94cc25743307336\transformed\material-icons-extended-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\63a92f8dd9a01c3e901f6c8b710d3a11\transformed\material-icons-core-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\845e50e36c0c5bac3eb03db2cc1309b1\transformed\foundation-layout-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\fd4f857693e24d712ffc0c29220f194d\transformed\animation-core-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\2175278fa71fb332f00d955c50eec3fc\transformed\ui-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\b68b112b5536b9cd106780fcde4aa8b4\transformed\navigation-runtime-ktx-2.4.0-alpha09\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\a434df368288c98e9ca8511e7fece93a\transformed\hilt-navigation-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\a6ec3f979382ae408fed03d988eefa5a\transformed\navigation-runtime-2.4.0-alpha09\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\7f55fb3b05460f109cb3876bf5d711e9\transformed\activity-ktx-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\3a66d414526c9b7201d320cec8d98a4d\transformed\navigation-common-ktx-2.4.0-alpha09\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\f34a1c7b883e535a5d2b55db524006bf\transformed\navigation-common-2.4.0-alpha09\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\a4365b83ab59930974a7287e5478beba\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\e331c0c31cdd99ed05d6ce8718344724\transformed\room-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\622c065cb0bc588cadb3660b875650c6\transformed\ui-tooling-preview-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\3bbfd4aa911c04763673de460b777938\transformed\ui-text-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\0bc0130333a19a5d7e15f18a0d15ff5c\transformed\runtime-saveable-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\cff9ec5daa3fc1968ecf784e517778fa\transformed\ui-graphics-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\7fce1318899eaa68fcdf634c28c79138\transformed\ui-unit-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\da5aa679959c962deb06f15ceabd7ab8\transformed\ui-geometry-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\2c4710336be6758554ab5d33cd8d03d9\transformed\runtime-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\f39a1269b5754e8aa4a9e5d7e84d07fe\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\nana2\.gradle\caches\transforms-3\18fb81c37093b78ad04d4f85077b2589\transformed\core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\nana2\.gradle\caches\transforms-3\29eb98298046133b5a9396fd1f22dd40\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nana2\.gradle\caches\transforms-3\a9868ebcaa42f1e58fe14f3a3cac6d35\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\8f838b80c63aa3c26ac663efd93b4f58\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] C:\Users\nana2\.gradle\caches\transforms-3\dce53deea9280bf1dd8d66525c362b02\transformed\hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.38.1] C:\Users\nana2\.gradle\caches\transforms-3\a8ec3cf43ccc1a5a1c4ed3a5b97f80a4\transformed\hilt-android-2.38.1\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\76449badb16399be22cc7869b1022756\transformed\ui-util-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\a07f40a303d26a985127b2bef161bd94\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\9c3069b6ebeb7c3c80515535286c7e83\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\nana2\.gradle\caches\transforms-3\2f134df4341068a6c3dfeaa2e17abc5a\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\710b82624a5fd0041c024c9f435f9c2e\transformed\appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\2ce0709cf170607f97c3d6e0410d2ac9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\dac75a0d333980b776f97baa51e46605\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\26c4d694ed7a076efd2565f73357fc67\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nana2\.gradle\caches\transforms-3\f64c0e99402fb98a59c58e405e6758ce\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\d8a0ec9c849c97d020ba4fdd1dd780e8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\5c7ca83c1ced8b37da93507f11fc17b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\bf759ebe2008128d239889ae179882cf\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\55dca08413dde106a1501b2779497d2f\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\cd34a40b70f479e2dff35fdcddd0caab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\299aeee352b231f08332fc7e650d8528\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\e217989f6929512a74ca778a1f0a06d5\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\4ddf5f822ba90a5af3b100cab2c3ed07\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\2bdfe5bdf25a419dbc754d5977af12ed\transformed\activity-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\nana2\.gradle\caches\transforms-3\3a728f53d2c2d9fa19a8d8e5ff37cb88\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\88fc67dbe8404d632ba08ecc7d0a0034\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\83e66a06965a0e6056be42f909dc1061\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\d0baf0c94113d620f45095bbb58ce98c\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\3c00be50430d2deb873abd6f5dcfaf3c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\fb03b04e40145c38ccf54c546739207c\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\3dc17821efce84748043779986b5957e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nana2\.gradle\caches\transforms-3\0face9b9ce0cf84f195476d0c7597966\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\dad03c88355f5ac6df7a759a2a5c0cdf\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\nana2\.gradle\caches\transforms-3\51105932510112d785bbbb40e0dab6be\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\nana2\.gradle\caches\transforms-3\1ab7e0abfb3b9815e36bfe210476c635\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nana2\.gradle\caches\transforms-3\04ae95afc29ac9fa68d83e98627cfe71\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nana2\.gradle\caches\transforms-3\a9e944c7bb3908e55fd9f0157f3bc37d\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\06a216e47fbce14a0e9d87ad9e3aecbb\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\14d21877e4037927f5f2c9cddb641c4f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\5fadc635656e64b763176f82013ea222\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\d2e0f3216c7662ffcc3474b74d5514f4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\33a304fe2062dbd747b0b28cab67f6a1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\18e55bf59eeaf1d49c2cb698acd53624\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\25651814a2627b02d5a310778dc62127\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] C:\Users\nana2\.gradle\caches\transforms-3\45eb7a68f6e004485d8fa5f75b454b3d\transformed\dagger-lint-aar-2.38.1\AndroidManifest.xml:16:1-19:12
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:6:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\nana2\.gradle\caches\transforms-3\29eb98298046133b5a9396fd1f22dd40\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\nana2\.gradle\caches\transforms-3\29eb98298046133b5a9396fd1f22dd40\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nana2\.gradle\caches\transforms-3\a9868ebcaa42f1e58fe14f3a3cac6d35\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nana2\.gradle\caches\transforms-3\a9868ebcaa42f1e58fe14f3a3cac6d35\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\nana2\.gradle\caches\transforms-3\3a728f53d2c2d9fa19a8d8e5ff37cb88\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\nana2\.gradle\caches\transforms-3\3a728f53d2c2d9fa19a8d8e5ff37cb88\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nana2\.gradle\caches\transforms-3\04ae95afc29ac9fa68d83e98627cfe71\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nana2\.gradle\caches\transforms-3\04ae95afc29ac9fa68d83e98627cfe71\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\06a216e47fbce14a0e9d87ad9e3aecbb\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\06a216e47fbce14a0e9d87ad9e3aecbb\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\nana2\.gradle\caches\transforms-3\3a728f53d2c2d9fa19a8d8e5ff37cb88\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:13:9-54
+	tools:targetApi
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:15:9-46
+	android:dataExtractionRules
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:9:9-65
+	android:name
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:7:9-32
+activity#com.project.notesapp.feature_note.presentation.MainActivity
+ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:20:13-45
+	android:exported
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:21:13-50
+	android:name
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:18:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\c10a2c6fdff37e06135f69027ae82b2d\transformed\material-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\c10a2c6fdff37e06135f69027ae82b2d\transformed\material-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0-alpha03] C:\Users\nana2\.gradle\caches\transforms-3\5a192979789e0111f1c29febca3c8e04\transformed\hilt-navigation-compose-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0-alpha03] C:\Users\nana2\.gradle\caches\transforms-3\5a192979789e0111f1c29febca3c8e04\transformed\hilt-navigation-compose-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\d9163eb6e530b23780bab63281c69333\transformed\navigation-compose-2.4.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\d9163eb6e530b23780bab63281c69333\transformed\navigation-compose-2.4.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\76217f61e55b2593bc2b55df3e639518\transformed\activity-compose-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\76217f61e55b2593bc2b55df3e639518\transformed\activity-compose-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\85e511186246ea31c828a3e851283fb3\transformed\lifecycle-viewmodel-compose-2.4.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\85e511186246ea31c828a3e851283fb3\transformed\lifecycle-viewmodel-compose-2.4.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\cea4ffc0f1bf97d7251cee0798519e09\transformed\ui-tooling-data-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\cea4ffc0f1bf97d7251cee0798519e09\transformed\ui-tooling-data-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6464a9babcfa14aa00c5b914fc290399\transformed\material-ripple-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6464a9babcfa14aa00c5b914fc290399\transformed\material-ripple-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\d2619136a35c9ab33533a44d3339bdf0\transformed\foundation-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\d2619136a35c9ab33533a44d3339bdf0\transformed\foundation-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\2f686f6d7e38e6c6ca8013e44cbb718d\transformed\animation-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\2f686f6d7e38e6c6ca8013e44cbb718d\transformed\animation-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-extended:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\0866a56cb9a8cdc0b94cc25743307336\transformed\material-icons-extended-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-extended:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\0866a56cb9a8cdc0b94cc25743307336\transformed\material-icons-extended-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\63a92f8dd9a01c3e901f6c8b710d3a11\transformed\material-icons-core-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\63a92f8dd9a01c3e901f6c8b710d3a11\transformed\material-icons-core-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\845e50e36c0c5bac3eb03db2cc1309b1\transformed\foundation-layout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\845e50e36c0c5bac3eb03db2cc1309b1\transformed\foundation-layout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\fd4f857693e24d712ffc0c29220f194d\transformed\animation-core-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\fd4f857693e24d712ffc0c29220f194d\transformed\animation-core-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\2175278fa71fb332f00d955c50eec3fc\transformed\ui-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\2175278fa71fb332f00d955c50eec3fc\transformed\ui-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\b68b112b5536b9cd106780fcde4aa8b4\transformed\navigation-runtime-ktx-2.4.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\b68b112b5536b9cd106780fcde4aa8b4\transformed\navigation-runtime-ktx-2.4.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\a434df368288c98e9ca8511e7fece93a\transformed\hilt-navigation-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\a434df368288c98e9ca8511e7fece93a\transformed\hilt-navigation-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\a6ec3f979382ae408fed03d988eefa5a\transformed\navigation-runtime-2.4.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\a6ec3f979382ae408fed03d988eefa5a\transformed\navigation-runtime-2.4.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\7f55fb3b05460f109cb3876bf5d711e9\transformed\activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\7f55fb3b05460f109cb3876bf5d711e9\transformed\activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\3a66d414526c9b7201d320cec8d98a4d\transformed\navigation-common-ktx-2.4.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\3a66d414526c9b7201d320cec8d98a4d\transformed\navigation-common-ktx-2.4.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\f34a1c7b883e535a5d2b55db524006bf\transformed\navigation-common-2.4.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha09] C:\Users\nana2\.gradle\caches\transforms-3\f34a1c7b883e535a5d2b55db524006bf\transformed\navigation-common-2.4.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\a4365b83ab59930974a7287e5478beba\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\a4365b83ab59930974a7287e5478beba\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\e331c0c31cdd99ed05d6ce8718344724\transformed\room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\e331c0c31cdd99ed05d6ce8718344724\transformed\room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\622c065cb0bc588cadb3660b875650c6\transformed\ui-tooling-preview-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\622c065cb0bc588cadb3660b875650c6\transformed\ui-tooling-preview-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\3bbfd4aa911c04763673de460b777938\transformed\ui-text-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\3bbfd4aa911c04763673de460b777938\transformed\ui-text-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\0bc0130333a19a5d7e15f18a0d15ff5c\transformed\runtime-saveable-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\0bc0130333a19a5d7e15f18a0d15ff5c\transformed\runtime-saveable-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\cff9ec5daa3fc1968ecf784e517778fa\transformed\ui-graphics-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\cff9ec5daa3fc1968ecf784e517778fa\transformed\ui-graphics-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\7fce1318899eaa68fcdf634c28c79138\transformed\ui-unit-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\7fce1318899eaa68fcdf634c28c79138\transformed\ui-unit-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\da5aa679959c962deb06f15ceabd7ab8\transformed\ui-geometry-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\da5aa679959c962deb06f15ceabd7ab8\transformed\ui-geometry-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\2c4710336be6758554ab5d33cd8d03d9\transformed\runtime-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\2c4710336be6758554ab5d33cd8d03d9\transformed\runtime-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\f39a1269b5754e8aa4a9e5d7e84d07fe\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\f39a1269b5754e8aa4a9e5d7e84d07fe\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\nana2\.gradle\caches\transforms-3\18fb81c37093b78ad04d4f85077b2589\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\nana2\.gradle\caches\transforms-3\18fb81c37093b78ad04d4f85077b2589\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\nana2\.gradle\caches\transforms-3\29eb98298046133b5a9396fd1f22dd40\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\nana2\.gradle\caches\transforms-3\29eb98298046133b5a9396fd1f22dd40\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nana2\.gradle\caches\transforms-3\a9868ebcaa42f1e58fe14f3a3cac6d35\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nana2\.gradle\caches\transforms-3\a9868ebcaa42f1e58fe14f3a3cac6d35\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\8f838b80c63aa3c26ac663efd93b4f58\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\8f838b80c63aa3c26ac663efd93b4f58\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] C:\Users\nana2\.gradle\caches\transforms-3\dce53deea9280bf1dd8d66525c362b02\transformed\hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] C:\Users\nana2\.gradle\caches\transforms-3\dce53deea9280bf1dd8d66525c362b02\transformed\hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.38.1] C:\Users\nana2\.gradle\caches\transforms-3\a8ec3cf43ccc1a5a1c4ed3a5b97f80a4\transformed\hilt-android-2.38.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.38.1] C:\Users\nana2\.gradle\caches\transforms-3\a8ec3cf43ccc1a5a1c4ed3a5b97f80a4\transformed\hilt-android-2.38.1\AndroidManifest.xml:18:3-42
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\76449badb16399be22cc7869b1022756\transformed\ui-util-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\76449badb16399be22cc7869b1022756\transformed\ui-util-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\a07f40a303d26a985127b2bef161bd94\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\a07f40a303d26a985127b2bef161bd94\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\9c3069b6ebeb7c3c80515535286c7e83\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\9c3069b6ebeb7c3c80515535286c7e83\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\nana2\.gradle\caches\transforms-3\2f134df4341068a6c3dfeaa2e17abc5a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\nana2\.gradle\caches\transforms-3\2f134df4341068a6c3dfeaa2e17abc5a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\710b82624a5fd0041c024c9f435f9c2e\transformed\appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\710b82624a5fd0041c024c9f435f9c2e\transformed\appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\2ce0709cf170607f97c3d6e0410d2ac9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\2ce0709cf170607f97c3d6e0410d2ac9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\dac75a0d333980b776f97baa51e46605\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\dac75a0d333980b776f97baa51e46605\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\26c4d694ed7a076efd2565f73357fc67\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\26c4d694ed7a076efd2565f73357fc67\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nana2\.gradle\caches\transforms-3\f64c0e99402fb98a59c58e405e6758ce\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nana2\.gradle\caches\transforms-3\f64c0e99402fb98a59c58e405e6758ce\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\d8a0ec9c849c97d020ba4fdd1dd780e8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\d8a0ec9c849c97d020ba4fdd1dd780e8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\5c7ca83c1ced8b37da93507f11fc17b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\5c7ca83c1ced8b37da93507f11fc17b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\bf759ebe2008128d239889ae179882cf\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\bf759ebe2008128d239889ae179882cf\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\55dca08413dde106a1501b2779497d2f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\55dca08413dde106a1501b2779497d2f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\cd34a40b70f479e2dff35fdcddd0caab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\cd34a40b70f479e2dff35fdcddd0caab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\299aeee352b231f08332fc7e650d8528\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\299aeee352b231f08332fc7e650d8528\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\e217989f6929512a74ca778a1f0a06d5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\e217989f6929512a74ca778a1f0a06d5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\4ddf5f822ba90a5af3b100cab2c3ed07\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\4ddf5f822ba90a5af3b100cab2c3ed07\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\2bdfe5bdf25a419dbc754d5977af12ed\transformed\activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\nana2\.gradle\caches\transforms-3\2bdfe5bdf25a419dbc754d5977af12ed\transformed\activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\nana2\.gradle\caches\transforms-3\3a728f53d2c2d9fa19a8d8e5ff37cb88\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\nana2\.gradle\caches\transforms-3\3a728f53d2c2d9fa19a8d8e5ff37cb88\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\88fc67dbe8404d632ba08ecc7d0a0034\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\88fc67dbe8404d632ba08ecc7d0a0034\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\83e66a06965a0e6056be42f909dc1061\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\83e66a06965a0e6056be42f909dc1061\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\d0baf0c94113d620f45095bbb58ce98c\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\d0baf0c94113d620f45095bbb58ce98c\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\3c00be50430d2deb873abd6f5dcfaf3c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\3c00be50430d2deb873abd6f5dcfaf3c\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\fb03b04e40145c38ccf54c546739207c\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\fb03b04e40145c38ccf54c546739207c\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\3dc17821efce84748043779986b5957e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\3dc17821efce84748043779986b5957e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nana2\.gradle\caches\transforms-3\0face9b9ce0cf84f195476d0c7597966\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nana2\.gradle\caches\transforms-3\0face9b9ce0cf84f195476d0c7597966\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\dad03c88355f5ac6df7a759a2a5c0cdf\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\nana2\.gradle\caches\transforms-3\dad03c88355f5ac6df7a759a2a5c0cdf\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\nana2\.gradle\caches\transforms-3\51105932510112d785bbbb40e0dab6be\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\nana2\.gradle\caches\transforms-3\51105932510112d785bbbb40e0dab6be\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\nana2\.gradle\caches\transforms-3\1ab7e0abfb3b9815e36bfe210476c635\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\nana2\.gradle\caches\transforms-3\1ab7e0abfb3b9815e36bfe210476c635\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nana2\.gradle\caches\transforms-3\04ae95afc29ac9fa68d83e98627cfe71\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nana2\.gradle\caches\transforms-3\04ae95afc29ac9fa68d83e98627cfe71\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nana2\.gradle\caches\transforms-3\a9e944c7bb3908e55fd9f0157f3bc37d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nana2\.gradle\caches\transforms-3\a9e944c7bb3908e55fd9f0157f3bc37d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\06a216e47fbce14a0e9d87ad9e3aecbb\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\06a216e47fbce14a0e9d87ad9e3aecbb\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\14d21877e4037927f5f2c9cddb641c4f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\14d21877e4037927f5f2c9cddb641c4f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\5fadc635656e64b763176f82013ea222\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\5fadc635656e64b763176f82013ea222\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\d2e0f3216c7662ffcc3474b74d5514f4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\d2e0f3216c7662ffcc3474b74d5514f4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\33a304fe2062dbd747b0b28cab67f6a1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\33a304fe2062dbd747b0b28cab67f6a1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\18e55bf59eeaf1d49c2cb698acd53624\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\18e55bf59eeaf1d49c2cb698acd53624\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\25651814a2627b02d5a310778dc62127\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nana2\.gradle\caches\transforms-3\25651814a2627b02d5a310778dc62127\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] C:\Users\nana2\.gradle\caches\transforms-3\45eb7a68f6e004485d8fa5f75b454b3d\transformed\dagger-lint-aar-2.38.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] C:\Users\nana2\.gradle\caches\transforms-3\45eb7a68f6e004485d8fa5f75b454b3d\transformed\dagger-lint-aar-2.38.1\AndroidManifest.xml:18:3-42
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:26:13-71
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\06a216e47fbce14a0e9d87ad9e3aecbb\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nana2\.gradle\caches\transforms-3\06a216e47fbce14a0e9d87ad9e3aecbb\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:43:25-88
