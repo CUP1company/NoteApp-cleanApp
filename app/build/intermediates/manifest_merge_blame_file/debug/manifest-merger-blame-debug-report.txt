@@ -1,0 +1,112 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.project.notesapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:6:5-28:19
+12        android:name="com.project.notesapp.NoteApp"
+12-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:7:9-32
+13        android:allowBackup="true"
+13-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:8:9-35
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.6.0] C:\Users\nana2\.gradle\caches\transforms-3\3a728f53d2c2d9fa19a8d8e5ff37cb88\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+15        android:dataExtractionRules="@xml/data_extraction_rules"
+15-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:9:9-65
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:fullBackupContent="@xml/backup_rules"
+18-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:10:9-54
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.NotesApp" >
+24-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:15:9-46
+25        <activity
+25-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:17:9-27:20
+26            android:name="com.project.notesapp.feature_note.presentation.MainActivity"
+26-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:18:13-67
+27            android:exported="true"
+27-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:19:13-36
+28            android:label="@string/app_name"
+28-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:20:13-45
+29            android:theme="@style/Theme.NotesApp" >
+29-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:21:13-50
+30            <intent-filter>
+30-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:22:13-26:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:23:17-69
+31-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:25:17-77
+33-->C:\Projects\notesApp\app\src\main\AndroidManifest.xml:25:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->[androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:25:9-27:39
+37            android:name="androidx.compose.ui.tooling.PreviewActivity"
+37-->[androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:26:13-71
+38            android:exported="true" />
+38-->[androidx.compose.ui:ui-tooling:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\6a06f544ac2f3da9fe9a94b7b1d8f439\transformed\ui-tooling-1.1.0-beta01\AndroidManifest.xml:27:13-36
+39
+40        <service
+40-->[androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+41            android:name="androidx.room.MultiInstanceInvalidationService"
+41-->[androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+42            android:directBootAware="true"
+42-->[androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+43            android:exported="false" />
+43-->[androidx.room:room-runtime:2.3.0] C:\Users\nana2\.gradle\caches\transforms-3\3cbbc3a6d925543a61f2479317100709\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+44
+45        <provider
+45-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:26:9-34:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:27:13-67
+47            android:authorities="com.project.notesapp.androidx-startup"
+47-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:28:13-68
+48            android:exported="false" >
+48-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:29:13-37
+49            <meta-data
+49-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+50-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:32:17-85
+51                android:value="androidx.startup" />
+51-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:33:17-49
+52        </provider>
+53
+54        <receiver
+54-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:36:9-45:20
+55            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+55-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:37:13-76
+56            android:directBootAware="false"
+56-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:38:13-44
+57            android:enabled="true"
+57-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:39:13-35
+58            android:exported="true"
+58-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:40:13-36
+59            android:permission="android.permission.DUMP" >
+59-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:41:13-57
+60            <intent-filter>
+60-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:42:13-44:29
+61                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+61-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:43:17-91
+61-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] C:\Users\nana2\.gradle\caches\transforms-3\66126e8a8d587fdeac78b1d8cb350a9b\transformed\profileinstaller-1.1.0-beta01\AndroidManifest.xml:43:25-88
+62            </intent-filter>
+63        </receiver>
+64    </application>
+65
+66</manifest>
